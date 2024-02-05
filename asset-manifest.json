@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iRifshaAshraf/TextUtils-template/static/css/main.dc4d6ff2.css",
+    "main.js": "/iRifshaAshraf/TextUtils-template/static/js/main.e4e1d0a0.js",
+    "static/js/592.5a7c6f19.chunk.js": "/iRifshaAshraf/TextUtils-template/static/js/592.5a7c6f19.chunk.js",
+    "index.html": "/iRifshaAshraf/TextUtils-template/index.html",
+    "main.dc4d6ff2.css.map": "/iRifshaAshraf/TextUtils-template/static/css/main.dc4d6ff2.css.map",
+    "main.e4e1d0a0.js.map": "/iRifshaAshraf/TextUtils-template/static/js/main.e4e1d0a0.js.map",
+    "592.5a7c6f19.chunk.js.map": "/iRifshaAshraf/TextUtils-template/static/js/592.5a7c6f19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.e4e1d0a0.js"
+  ]
+}
