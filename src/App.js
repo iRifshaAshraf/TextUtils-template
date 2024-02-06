@@ -48,7 +48,7 @@ function App() {
         <Routes>
           <Route path="/about" element={<About mode={mode} showAlert={showAlert} />} />
             {/* <About /> */}
-          <Route index element={<div className="container my-3"><TextForm heading="Enter text to analyze below:" mode={mode} showAlert={showAlert} /></div>} />
+          <Route index element={<div className="container my-3"><TextForm heading="Try TextUtils - Word Counter" mode={mode} showAlert={showAlert} /></div>} />
         </Routes>
         <Footer mode={mode}/>
       </BrowserRouter>
